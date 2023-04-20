@@ -1,0 +1,7 @@
+{
+    "products": [
+        { "id": "p1", "title": "Produto 1", "description": "Este é o produto 1"},
+        { "id": "p2", "title": "Produto 2", "description": "Este é o produto 2"},
+        { "id": "p3", "title": "Produto 3", "description": "Este é o produto 3"}
+    ]
+}
